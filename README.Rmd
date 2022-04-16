@@ -1,0 +1,12 @@
+---
+title: "Appex 13"
+output: github_document
+date: '2022-04-16'
+---
+
+```{r}
+# install.packages("devtools")
+# devtools::install_github("LucyMcGowan/tipr") # Download "development" version
+library(tipr)
+```
+
